@@ -41,27 +41,23 @@ This project addresses the need for a structured approach to historical equity a
 
 The project includes a four-page interactive Plotly dashboard designed to make historical market performance easier to explore.
 
-### Dashboard Screenshots
+### Dashboard Preview
 
-**Page 1: Market Overview**
+### Page 1: Market Overview
+![S&P 500 Dashboard Page 1](visuals/dashboard_screenshots/SP500_Dashboard_Tab_1.png)
 
-![S&P 500 Dashboard Page 1](visuals/visuals dashboard_screenshots/SP500_Dashboard_Tab_1.png)
+### Page 2: Stock Performance Analysis
+![S&P 500 Dashboard Page 2](visuals/dashboard_screenshots/SP500_Dashboard_Tab_2.png)
 
-**Page 2: Stock Performance Analysis**
+### Page 3: Risk and Volatility Analysis
+![S&P 500 Dashboard Page 3](visuals/dashboard_screenshots/SP500_Dashboard_Tab_3.png)
 
-![S&P 500 Dashboard Page 2](visuals/visuals dashboard_screenshots/SP500_Dashboard_Tab_2.png)
+### Page 4: Comparative Stock Analysis
+![S&P 500 Dashboard Page 4](visuals/dashboard_screenshots/SP500_Dashboard_Tab_4.png)
 
-**Page 3: Risk and Volatility Analysis**
+## Interactive Dashboard
 
-![S&P 500 Dashboard Page 3](visuals/visuals dashboard_screenshots/SP500_Dashboard_Tab_3.png)
-
-**Page 4: Comparative Stock Analysis**
-
-![S&P 500 Dashboard Page 4](visuals/visuals dashboard_screenshots/SP500_Dashboard_Tab_4.png)
-
-### Interactive Dashboard
-
-The complete dashboard is available as an HTML file.
+The complete interactive dashboard is available in HTML format.
 
 [Explore the Interactive S&P 500 Dashboard](visuals/SP500_Interactive_Dashboard.html)
 
