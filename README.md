@@ -59,8 +59,6 @@ The project includes a four-page interactive Plotly dashboard designed to make h
 
 ![S&P 500 Dashboard Page 4](visuals/dashboard_page_4.png)
 
-*Note: Replace the illustrative image paths above with the exact screenshot filenames saved in the `visuals/` folder.*
-
 ### Interactive Dashboard
 
 The complete dashboard is available as an HTML file.
