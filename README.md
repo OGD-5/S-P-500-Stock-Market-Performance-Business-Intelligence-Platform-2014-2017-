@@ -44,16 +44,20 @@ The project includes a four-page interactive Plotly dashboard designed to make h
 ### Dashboard Preview
 
 ### Page 1: Market Overview
-![S&P 500 Dashboard Page 1](visuals/dashboard_screenshots/SP500_Dashboard_Tab_1.png)
+
+![S&P 500 Dashboard Page 1](visuals/visuals%20dashboard_screenshots/SP500_Dashboard_Tab_1.png)
 
 ### Page 2: Stock Performance Analysis
-![S&P 500 Dashboard Page 2](visuals/dashboard_screenshots/SP500_Dashboard_Tab_2.png)
+
+![S&P 500 Dashboard Page 2](visuals/visuals%20dashboard_screenshots/SP500_Dashboard_Tab_2.png)
 
 ### Page 3: Risk and Volatility Analysis
-![S&P 500 Dashboard Page 3](visuals/dashboard_screenshots/SP500_Dashboard_Tab_3.png)
+
+![S&P 500 Dashboard Page 3](visuals/visuals%20dashboard_screenshots/SP500_Dashboard_Tab_3.png)
 
 ### Page 4: Comparative Stock Analysis
-![S&P 500 Dashboard Page 4](visuals/dashboard_screenshots/SP500_Dashboard_Tab_4.png)
+
+![S&P 500 Dashboard Page 4](visuals/visuals%20dashboard_screenshots/SP500_Dashboard_Tab_4.png)
 
 ## Interactive Dashboard
 
